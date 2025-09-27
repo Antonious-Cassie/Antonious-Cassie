@@ -40,8 +40,12 @@
 
 ##  🔹 Javascript 
 
-##  🔹 HTML & CSS 
+ <section> 
+ ##  🔹 HTML & CSS 
+   <p> Click to view projects </p>
 - [Project: Coffee-Shop Static Website] (https://github.com/Antonious-Cassie/Coffee-Shop-Website)
+ </section>
+
 
 ###
 
