@@ -31,3 +31,17 @@
 </div>
 
 ###
+
+# 📊 Projects - Manual, Automation and Development 📈
+
+##  🔹 Excel
+
+##  🔹 Java 
+
+##  🔹 Javascript 
+
+##  🔹 HTML & CSS 
+- [Project: Coffee-Shop Static Website] (https://github.com/Antonious-Cassie/Coffee-Shop-Website)
+
+###
+
