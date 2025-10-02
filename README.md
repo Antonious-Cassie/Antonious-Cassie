@@ -31,18 +31,23 @@
 </div>
 
 ###
+<div class=ProjectHeading> 
+<h3> 📊 Projects - Manual, Automation and Development 📈 </h3> 
+</div>
 
-# 📊 Projects - Manual, Automation and Development 📈
+<div>
+<h4> 🔹 Excel </h4> 
 
-##  🔹 Excel
+<h5> 🔹 Java </h5>
 
-##  🔹 Java 
+<h6> 🔹 Java </h6> 
 
-##  🔹 Javascript 
+<h7> 🔹 Javascript </h7> 
 
- ##  🔹 HTML & CSS 
+<h8> 🔹 HTML & CSS </h8> 
+
  <a href="https://github.com/Antonious-Cassie/Coffee-Shop-Website">Click here to visit project</a>
-
+</div>
 
 
 
