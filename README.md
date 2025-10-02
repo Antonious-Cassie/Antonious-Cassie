@@ -36,15 +36,13 @@
 </div>
 
 <div>
-<h4> 🔹 Excel </h4> 
+<h4>🔹 Excel </h4> 
 
-<h5> 🔹 Java </h5>
+<h5>🔹 Java </h5>
 
-<h6> 🔹 Java </h6> 
+<h6>🔹 Javascript</h6> 
 
-<h7> 🔹 Javascript </h7> 
-
-<h8> 🔹 HTML & CSS </h8> 
+<h7>🔹 HTML & CSS</h7> 
 
  <a href="https://github.com/Antonious-Cassie/Coffee-Shop-Website">Click here to visit project</a>
 </div>
