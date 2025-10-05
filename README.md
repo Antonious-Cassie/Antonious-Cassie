@@ -37,17 +37,46 @@
 
 <div>
 <h4>🔹 Excel </h4> 
+<details> 
+<summary>Click to view projects</summary>
+  <ul>
+<li> <a href="https://github.com/Antonious-Cassie/E-Commerce-Manual-Test-Case-Execution"> Manual Test Scenario and Execution for E-Commerce Website</a>
+</li>
+<li> <a href="https://github.com/Antonious-Cassie/Manual-Test-Case-Execution-for-Zoopla-Website"> Manual Test Scenario and Execution for Zoopla Website</a> 
+</li>
+</ul>
+</details>
+
 
 <h5>🔹 Java </h5>
 
 <h6>🔹 Javascript</h6> 
+<details>
+<summary>Click to view projects</summary>
+<ul>
+  <li>
+    <a href="https://github.com/Antonious-Cassie/Calculator"> Calculator</a>
+  </li>
+</ul>
+  
+</details>
+
 
 <h7>🔹 HTML & CSS</h7> 
-
- <a href="https://github.com/Antonious-Cassie/Coffee-Shop-Website">Click here to visit project</a>
+<details> 
+<summary>Click to view projects</summary>
+  <ul>
+    <li>
+       <a href="https://github.com/Antonious-Cassie/Coffee-Shop-Website">Static website of a Coffee Shop Menu</a>
+    </li>
+    <li>
+      <a href="https://github.com/Antonious-Cassie/Travel-Site">Static website of Travel Site<a>
+    </li>
+  </ul>
+</details>
 </div>
 
 
-
 ###
+
 
