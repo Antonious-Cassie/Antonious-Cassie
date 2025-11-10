@@ -44,6 +44,8 @@
 </li>
 <li> <a href="https://github.com/Antonious-Cassie/Manual-Test-Case-Execution-for-Zoopla-Website"> Manual Test Scenario and Execution for Zoopla Website</a> 
 </li>
+<li> <a href="https://github.com/Antonious-Cassie/Manual-Test-Case-Execution-for-Orange-HR-Management-System"> Manual Test Scenario and Execution for Orange HR Managment System</a>
+</li>
 </ul>
 </details>
 
