@@ -9,6 +9,17 @@
 ###
 
 <h2 align="left"> 📖 Recent Articles</h2> 
+<div>
+<h3>The importance of Testing: A guide to Software Testing</h3>
+<p> At the design and launch of a new software project there’s an eagerness to release software without ensuring efficient testing has been conducted. However, that could cause huge implications on customers or businesses revenues, reputation and legalities. This article reiterates the importance of software testing, using real world scenarios and examples to conceptualise the necessity of thoroughly testing software applications prior to release and demonstrates the consequences if not done efficiently. </p>
+  
+<p> Software Testing is the process of verifying and validating whether a Software application functions as expected. The primary goal of software testing is to identify and rectify, bugs, errors or flaws found in the application that could impede the functionality of the application. Thereby, assessing the applications requirements, performance, and functionality to meet the satisfaction and expectation of the customer. 
+</p>
+<p> 
+<a href="https://www.linkedin.com/pulse/importance-testing-guide-software-antonious-cassie-antonious-cassie--skphe/?trackingId=LbxafTxpRceAyFydNbmGmg%3D%3D">Click to read Article</a> 
+</p>
+  
+</div>
 
 ###
 
