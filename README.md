@@ -9,6 +9,7 @@
 ###
 
 <h2 align="left"> 📖 Recent Articles</h2> 
+<a href ="https://www.linkedin.com/pulse/importance-testing-guide-software-antonious-cassie-antonious-cassie--skphe/?trackingId=qETtaUG%2BRjK8ZAne14RthQ%3D%3D"></a> 
 
 ###
 
