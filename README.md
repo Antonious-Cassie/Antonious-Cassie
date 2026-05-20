@@ -58,7 +58,20 @@
 </details>
 
 
-<h5>🔹 Java </h5>
+<h5>🔹 Automation Testing (Selenium + Java)</h5>
+<details>
+<summary>Click to view projects</summary>
+<ul>
+  <li>
+    <a href="https://github.com/Antonious-Cassie/Selenium-login-automation">Postive and Negative Login Test Case</a>
+  </li>
+  <li>
+    <a href="https://github.com/Antonious-Cassie/Login-and-Add-to-Cart-Automation-Test">Login and Add to Cart Test</a>
+  </li>
+</ul>
+  
+</details>
+
 
 <h6>🔹 Javascript</h6> 
 <details>
