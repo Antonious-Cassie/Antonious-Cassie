@@ -68,6 +68,9 @@
   <li>
     <a href="https://github.com/Antonious-Cassie/Login-and-Add-to-Cart-Automation-Test">Login and Add to Cart Test</a>
   </li>
+  <li>
+    <a href="https://github.com/Antonious-Cassie/ecommerce-e2e-automation">User Interface end-to-end automation framework for e-commerce testing</a>
+  </li>
 </ul>
   
 </details>
