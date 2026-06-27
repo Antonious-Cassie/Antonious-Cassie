@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello, I'm Antonious, a Junior Software Test Engineer. I am passionate about quality assurance for newly built technologies that align with user requirements and continuously improving software reliability. My expertise includes Manual and Automation Testing. This consists of writing manual test scenarios and test cases using Excel and JIRA, as well as writing automated test cases using Selenium with Java.</p>
+<p align="left">Hello, I'm Antonious, a Software Test Engineer. I am passionate about quality assurance for newly built technologies that align with user requirements and continuously improving software reliability. My expertise includes Manual and Automation Testing. This consists of writing manual test scenarios and test cases using Excel and JIRA, as well as writing automated test cases using Selenium WebDriver with Java.</p>
 
 ###
 
